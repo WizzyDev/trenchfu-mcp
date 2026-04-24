@@ -1,0 +1,22 @@
+{
+  "name": "trenchfu-mcp-server",
+  "version": "3.0.0",
+  "description": "MCP server for TrenchFu — universal intelligence marketplace on Solana. 86 tools, 168+ endpoints, per-call USDC payments.",
+  "homepage": "https://mcp.trenchfu.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WizzyDev/trenchfu-mcp"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "solana",
+    "marketplace",
+    "intelligence",
+    "x402",
+    "usdc",
+    "ai-agents",
+    "prediction-markets"
+  ],
+  "license": "UNLICENSED"
+}

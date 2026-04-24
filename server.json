@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.wizzydev/trenchfu-mcp",
+  "title": "TrenchFu — Universal Intelligence Marketplace",
+  "description": "86 MCP tools and 168+ intelligence endpoints on Solana. Browse prediction markets, defense intel, DeFi analytics, weather, maritime tracking, space weather, and more. Pay per-call with USDC via MPP. Sellers earn 90%.",
+  "version": "3.0.0",
+  "repository": {
+    "url": "https://github.com/WizzyDev/trenchfu-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.trenchfu.com"
+    }
+  ]
+}
