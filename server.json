@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.WizzyDev/trenchfu-mcp",
   "title": "TrenchFu — Universal Intelligence Marketplace",
-  "description": "Intelligence marketplace on Solana — 86 tools, 168+ endpoints, per-call USDC.",
-  "version": "3.0.0",
+  "description": "Intelligence marketplace on Solana — 89 tools, 230+ endpoints, per-call USDC payments.",
+  "version": "3.1.0",
   "repository": {
     "url": "https://github.com/WizzyDev/trenchfu-mcp",
     "source": "github"
