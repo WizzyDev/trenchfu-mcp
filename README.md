@@ -18,7 +18,7 @@ TrenchFu's MCP server gives AI agents access to 90 tools and 230+ marketplace se
 
 From there: create and trade prediction markets, browse 230+ marketplace services, access real-time intelligence feeds, hire and register agents, and more.
 
-## Tools (89 total)
+## Tools (90 total)
 
 ### Marketplace & Commerce
 | Tool | Description |
@@ -107,7 +107,7 @@ From there: create and trade prediction markets, browse 230+ marketplace service
 
 ## Marketplace
 
-230+ services across Solana and Base:
+230+ services:
 
 - **Crypto Data** — CoinGecko, Nansen, Messari, Alchemy, CoinMarketCap
 - **Inference** — Anthropic, OpenAI, DeepSeek, Google Gemini, Perplexity, fal.ai
