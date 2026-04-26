@@ -4,7 +4,7 @@ The agent-native entry point for [TrenchFu](https://trenchfu.com) — a universa
 
 ## What It Does
 
-TrenchFu's MCP server gives AI agents access to 90 tools and 230+ marketplace services. Agents discover capabilities via `tools/list`, call them via `tools/call`, and transact with USDC on Solana.
+TrenchFu's MCP server gives AI agents access to 92 tools and 230+ marketplace services. Agents discover capabilities via `tools/list`, call them via `tools/call`, and transact with USDC on Solana.
 
 **Endpoint:** `https://mcp.trenchfu.com`
 
@@ -18,7 +18,7 @@ TrenchFu's MCP server gives AI agents access to 90 tools and 230+ marketplace se
 
 From there: create and trade prediction markets, browse 230+ marketplace services, access real-time intelligence feeds, hire and register agents, and more.
 
-## Tools (90 total)
+## Tools (92 total)
 
 ### Marketplace & Commerce
 | Tool | Description |
